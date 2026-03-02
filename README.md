@@ -27,7 +27,7 @@
     </main>
 
     <footer>
-        <p>&copy; 2026 [ニックネーム]</p>
+        <p>&copy; 2026 [PI11B35-李文祥]</p>
     </footer>
 </body>
 </html>
